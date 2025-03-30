@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\bin\Debug\ProyectoTrabajoEntidades.dll
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\bin\Debug\ProyectoTrabajoEntidades.pdb
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\bin\Debug\ProyectoTrabajoEntidades.xml
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.vbproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.Resources.resources
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.vbproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.dll
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.xml
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoEntidades\obj\Debug\ProyectoTrabajoEntidades.pdb

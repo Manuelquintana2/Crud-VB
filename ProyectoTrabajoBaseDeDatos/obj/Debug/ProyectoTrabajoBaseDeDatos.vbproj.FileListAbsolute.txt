@@ -1,0 +1,15 @@
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoBaseDeDatos.dll.config
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoBaseDeDatos.dll
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoBaseDeDatos.pdb
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoBaseDeDatos.xml
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoEntidades.dll
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoEntidades.pdb
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\bin\Debug\ProyectoTrabajoEntidades.xml
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.vbproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.Resources.resources
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.vbproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\Proyecto.DDF1811D.Up2Date
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.dll
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.xml
+C:\Users\Juan\source\repos\Manuelquintana2\ProyectoTrabajo\ProyectoTrabajoBaseDeDatos\obj\Debug\ProyectoTrabajoBaseDeDatos.pdb

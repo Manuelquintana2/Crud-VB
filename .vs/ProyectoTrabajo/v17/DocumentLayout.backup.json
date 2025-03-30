@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{858D0F50-E10A-4130-BBBE-4413D36AAC3F}|ProyectoTrabajoBaseDeDatos\\ProyectoTrabajoBaseDeDatos.vbproj|c:\\users\\juan\\source\\repos\\manuelquintana2\\proyectotrabajo\\proyectotrabajobasededatos\\ventasdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{858D0F50-E10A-4130-BBBE-4413D36AAC3F}|ProyectoTrabajoBaseDeDatos\\ProyectoTrabajoBaseDeDatos.vbproj|solutionrelative:proyectotrabajobasededatos\\ventasdata.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|c:\\users\\juan\\source\\repos\\manuelquintana2\\proyectotrabajo\\proyectotrabajoui\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|solutionrelative:proyectotrabajoui\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|c:\\users\\juan\\source\\repos\\manuelquintana2\\proyectotrabajo\\proyectotrabajoui\\agregaritemventa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|solutionrelative:proyectotrabajoui\\agregaritemventa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|c:\\users\\juan\\source\\repos\\manuelquintana2\\proyectotrabajo\\proyectotrabajoui\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|solutionrelative:proyectotrabajoui\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|c:\\users\\juan\\source\\repos\\manuelquintana2\\proyectotrabajo\\proyectotrabajoui\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6598A8C1-E9BF-4C01-924A-55583DA75A00}|ProyectoTrabajoUI\\ProyectoTrabajoUI.vbproj|solutionrelative:proyectotrabajoui\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\FrmVentas.vb",
+              "RelativeDocumentMoniker": "ProyectoTrabajoUI\\FrmVentas.vb",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\FrmVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoTrabajoUI\\FrmVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T21:31:10.384Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarItemVenta.vb",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\AgregarItemVenta.vb",
+              "RelativeDocumentMoniker": "ProyectoTrabajoUI\\AgregarItemVenta.vb",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\AgregarItemVenta.vb",
+              "RelativeToolTip": "ProyectoTrabajoUI\\AgregarItemVenta.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T21:19:29.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVentas.vb",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\FrmVentas.vb",
+              "RelativeDocumentMoniker": "ProyectoTrabajoUI\\FrmVentas.vb",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\FrmVentas.vb",
+              "RelativeToolTip": "ProyectoTrabajoUI\\FrmVentas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T21:05:37.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasData.vb",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoBaseDeDatos\\VentasData.vb",
+              "RelativeDocumentMoniker": "ProyectoTrabajoBaseDeDatos\\VentasData.vb",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoBaseDeDatos\\VentasData.vb*",
+              "RelativeToolTip": "ProyectoTrabajoBaseDeDatos\\VentasData.vb*",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAIwAMBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T21:01:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmProductos.vb",
+              "DocumentMoniker": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\frmProductos.vb",
+              "RelativeDocumentMoniker": "ProyectoTrabajoUI\\frmProductos.vb",
+              "ToolTip": "C:\\Users\\Juan\\source\\repos\\Manuelquintana2\\ProyectoTrabajo\\ProyectoTrabajoUI\\frmProductos.vb",
+              "RelativeToolTip": "ProyectoTrabajoUI\\frmProductos.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-06T21:06:55.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
